@@ -1,1 +1,2 @@
 version=2.0.0
+library-path=lib/library-B.txt
